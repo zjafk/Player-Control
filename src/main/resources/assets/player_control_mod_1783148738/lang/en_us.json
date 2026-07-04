@@ -1,0 +1,17 @@
+{
+  "key.categories.player_control_mod_1783148738": "Player Control Mod",
+
+  "pctrl.mode.simulated": "Simulated Input Mode",
+  "pctrl.mode.packet": "Packet Mode",
+  "pctrl.feedback.enabled": "Execution Feedback: ON",
+  "pctrl.feedback.disabled": "Execution Feedback: OFF",
+  "pctrl.highlight.enabled": "Highlight: ON",
+  "pctrl.highlight.disabled": "Highlight: OFF",
+
+  "pctrl.action.attack": "Execute Attack",
+  "pctrl.action.use": "Use Item",
+  "pctrl.action.interact": "Interact",
+  "pctrl.action.jump": "Jump",
+  "pctrl.action.drop": "Drop Item",
+  "pctrl.action.drop_all": "Drop All Items"
+}

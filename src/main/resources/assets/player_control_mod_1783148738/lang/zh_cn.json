@@ -1,0 +1,17 @@
+{
+  "key.categories.player_control_mod_1783148738": "玩家控制模组",
+
+  "pctrl.mode.simulated": "模拟输入模式",
+  "pctrl.mode.packet": "数据包模式",
+  "pctrl.feedback.enabled": "执行反馈: 已开启",
+  "pctrl.feedback.disabled": "执行反馈: 已关闭",
+  "pctrl.highlight.enabled": "高亮提示: 已开启",
+  "pctrl.highlight.disabled": "高亮提示: 已关闭",
+
+  "pctrl.action.attack": "执行攻击",
+  "pctrl.action.use": "使用物品",
+  "pctrl.action.interact": "执行交互",
+  "pctrl.action.jump": "执行跳跃",
+  "pctrl.action.drop": "丢弃物品",
+  "pctrl.action.drop_all": "丢弃全部物品"
+}
